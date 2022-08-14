@@ -1,16 +1,20 @@
-### Hi there 👋
+## Junior Unity Developer
+Меня зовут **Артём Кучеренко** я занимаюсь разработкой игр на движке Unity.
 
-<!--
-**Happy-Chaos/Happy-Chaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Владею основами языка C# и базовыми навыками по работе с Unity и системой контроля версий Git. Также владею **Английским языком** на уровне **B2** (Upper-Intermediate)
 
-Here are some ideas to get you started:
+Хочу заниматься разработкой игр на профессиональной основе
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+### Контакты
+
+[Telegram](https://t.me/Happy_Cha0s)
+
+[VK](https://vk.com/happy_cha0s)
+
+***
+
+### Примеры работ
+
+![Platformer(Pirates)]()
