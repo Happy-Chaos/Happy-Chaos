@@ -17,4 +17,8 @@
 
 ### Примеры работ
 
-![Platformer(Pirates)]()
+![Platformer(Pirates)](Pir_1.gif)
+![Platformer(Pirates)](Pir_2.gif)
+![Platformer(Pirates)](Pir_3.gif)
+![Platformer(Pirates)](Pir_4.gif)
+![Platformer(Pirates)](Pir_5.gif)
